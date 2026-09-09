@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Isabella (@jones-isabella4132) 👋
 
-<!--
-**jones-isabella4132/jones-isabella4132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Sydney. Currently spending my days turning manual cloud workflows into code and untangling Kubernetes manifests.
 
-Here are some ideas to get you started:
+### What I'm up to:
+- 🛠️ Automating infrastructure deployments with Terraform
+- 📦 Breaking monoliths into containerized workloads on Kubernetes
+- 🤖 Writing custom GitHub Actions and Bash scripts to cut down CI/CD runtime
+- 📖 Exploring observability stacks and homelab networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Daily toolkit:
+`Linux` • `Docker` • `Kubernetes` • `Terraform` • `GitHub Actions` • `Bash` • `AWS`
+
+### Connect:
+- 💼 [LinkedIn](https://linkedin.com/in/jones-isabella)
+- 📧 isabella.jones.devops@gmail.com
+- 💬 Open an issue on any repo if you want to chat infra or automation.
